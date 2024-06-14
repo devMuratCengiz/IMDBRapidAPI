@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBRapidAPI", "IMDBRapidAPI\IMDBRapidAPI.csproj", "{D182B0EA-6053-44DE-8C95-576E8954308B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D182B0EA-6053-44DE-8C95-576E8954308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D182B0EA-6053-44DE-8C95-576E8954308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D182B0EA-6053-44DE-8C95-576E8954308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D182B0EA-6053-44DE-8C95-576E8954308B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEFCEDDE-E5A6-474B-BB56-C70FA324B043}
+	EndGlobalSection
+EndGlobal
